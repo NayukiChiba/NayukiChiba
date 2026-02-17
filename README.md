@@ -29,28 +29,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NayukiChiba&theme=flat&no-frame=true&row=1&column=6&margin-w=15" alt="trophy" />
-</p>
-
-## 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NayukiChiba&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayukiChiba&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayukiChiba&theme=vue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <i>Stay curious, keep learning.</i>
 </p>
