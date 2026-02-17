@@ -10,34 +10,28 @@
 
 ---
 
-## 🛠️ 技术栈
+## 技术栈
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,vue,cpp" alt="Tech Stack" />
+</p>
 
-## 📚 正在学习
+## 正在学习
 
-- 🤖 LLM 理论
-- 🧠 机器学习与深度学习
+- LLM 理论
+- 机器学习
+- 深度学习
+- python高级语法
 
-## 🎯 兴趣爱好
+## 兴趣爱好
 
-- 🎮 游戏
-- 🏃 跑步
+- 游戏: 原神！
+- 学习: 学习各种知识
+- 运动: 跑步和羽毛球
 
 ---
 
-## 🔥 Github Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayukiChiba" alt="GitHub Streak" />
-</div>
-
-<div>&nbsp;</div>
-
-## 📈 Github Contribution
+## Github Contribution
 
 <table>
   <tr>
@@ -53,7 +47,7 @@
 
 ---
 
-## 📊 Github Stats
+## Github Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NayukiChiba&theme=default" alt="Stats" />
@@ -68,5 +62,15 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NayukiChiba&theme=default" alt="Profile Details" />
 </div>
+
+---
+
+## Github Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayukiChiba" alt="GitHub Streak" />
+</div>
+
+<div>&nbsp;</div>
 
 ---
