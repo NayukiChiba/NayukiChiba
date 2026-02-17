@@ -53,6 +53,10 @@
 
 ---
 
-<p align="center">
-  <i>Stay curious, keep learning.</i>
-</p>
+## 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NayukiChiba&theme=nord_bright" alt="Stats" />
+</div>
+
+---
