@@ -53,6 +53,14 @@
 
 ---
 
+## 📊 Repo Analytics
+
+<div align="center">
+  <img width="100%" src="https://repobeats.axiom.co/api/embed/186ae7f17a8414009f18c938171c58287c8970fe.svg" alt="Repobeats analytics" />
+</div>
+
+---
+
 <p align="center">
   <i>Stay curious, keep learning.</i>
 </p>
