@@ -56,17 +56,17 @@
 ## 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NayukiChiba&theme=nord_bright" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NayukiChiba&theme=nord_bright" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NayukiChiba&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NayukiChiba&theme=default" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NayukiChiba&theme=nord_bright" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NayukiChiba&theme=nord_bright&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NayukiChiba&theme=default" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NayukiChiba&theme=default&utcOffset=8" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NayukiChiba&theme=nord_bright" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NayukiChiba&theme=default" alt="Profile Details" />
 </div>
 
 ---
