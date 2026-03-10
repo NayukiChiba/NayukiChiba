@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" width="48" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" width="48" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" width="48" alt="C++" />
-  <img src="https://img.yumeko.site/file/blog/genshin.png" alt="genshin.png" height="48" width="48" />
+  <img src="https://img.yumeko.site/file/blog/Genshin.webp" alt="genshin.png" height="48" width="48" />
 
 </p>
 
