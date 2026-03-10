@@ -17,20 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" width="48" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" width="48" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" width="48" alt="C++" />
+  <img src="https://img.yumeko.site/file/blog/genshin.png" alt="genshin.png" height="48" width="48" />
+
 </p>
-
-## 正在学习
-
-- LLM 理论
-- 机器学习
-- 深度学习
-- python高级语法
-
-## 兴趣爱好
-
-- 游戏: 原神！
-- 学习: 学习各种知识
-- 运动: 跑步和羽毛球
 
 ---
 
