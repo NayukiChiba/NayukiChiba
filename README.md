@@ -13,17 +13,18 @@
 ## 技术栈
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48" alt="Python" /></a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" width="48" alt="PyTorch" /></a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" width="48" alt="Vue.js" /></a>&nbsp;
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" width="48" alt="C++" /></a>&nbsp;
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="48" width="48" alt="Rust" /></a>&nbsp;
-  <a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="48" width="48" alt="Astro" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="JavaScript" /></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" width="48" alt="Docker" /></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="48" alt="MySQL" /></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="48" alt="PostgreSQL" /></a>&nbsp;
-  <a href="https://ys.mihoyo.com/" target="_blank"><img src="https://img.yumeko.site/file/blog/Genshin.webp" alt="genshin.png" height="48" width="48" /></a>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="PyTorch" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+  <code><img title="Vue.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
+  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img title="Rust" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"></code>
+  <code><img title="Astro" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Genshin" height="25" src="https://img.yumeko.site/file/blog/Genshin.webp"></code>
 </p>
 
 ---
