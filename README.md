@@ -24,7 +24,7 @@
   <a href="https://www.docker.com/" target="_blank"><code><img title="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code></a>
   <a href="https://www.mysql.com/" target="_blank"><code><img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
   <a href="https://www.postgresql.org/" target="_blank"><code><img title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code></a>
-  <a href="https://ys.mihoyo.com/" target="_blank"><code><img title="Genshin" height="40" src="https://img.yumeko.site/file/blog/Genshin.webp"></code></a>
+  <a href="https://ys.mihoyo.com/" target="_blank"><code><img title="Genshin" height="40" src="https://img.yumeko.site/file/blog/cover/1780581734162.webp"></code></a>
 </p>
 
 ---
